@@ -44,7 +44,7 @@ Copy the second URL provided in the terminal after running the Docker command an
 
 With the correct environment setup, you can use your Jupyter notebook as usual. You should have access to the files in your selected working directory within the Jupyter environment.
 
-![Alt Text](https://github.com/tylerslonecki/pipeline_test/blob/main/config/jupyter_example.PNG](https://github.com/tylerslonecki/bi-image-analysis/blob/main/bi/assets/jupyter_example.PNG)
+![Alt Text](https://github.com/tylerslonecki/bi-image-analysis/blob/main/bi/assets/jupyter_example.PNG)
 
 When you are done, you can stop and remove all docker containers using these commands in your terminal. Otherwise, they will continue to run in the background (The images will remain pulled down from Dockerhub)
 
