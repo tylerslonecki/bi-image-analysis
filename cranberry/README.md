@@ -12,7 +12,7 @@ Install Docker according to your operating system's instructions. You can find d
 
 ## Step 2: Pull Relevant Docker Image
 
-Enter the following command to pull the latest PlantCV Docker image:
+Enter the following command to pull the latest Docker image:
 
 ```bash
 docker pull tjs334/plantcv:latest
