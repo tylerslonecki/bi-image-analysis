@@ -15,7 +15,7 @@ Install Docker according to your operating system's instructions. You can find d
 Enter the following command to pull the latest Docker image:
 
 ```bash
-docker pull tjs334/plantcv:latest
+docker pull tjs334/micromamba-base:latest
 ```
 This command will pull down the latest working docker image compatible with this pipeline.
 
