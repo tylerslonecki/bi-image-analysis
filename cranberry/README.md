@@ -33,7 +33,7 @@ Navigate to the desired working folder, which should contain the Jupyter noteboo
 Once in the correct working folder, enter the following command in your terminal or PowerShell:
 
 ```bash
-docker run -it --rm -p 8888:8888 -v .:/home/jovyan/work tjs334/plantcv:latest
+docker run -it --rm -p 8888:8888 -v .:/home/mambauser/ tjs334/micromamba-base:latest
 ```
 
 ## Step 5: Access Jupyter Notebook
