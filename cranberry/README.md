@@ -10,7 +10,7 @@ Install Docker according to your operating system's instructions. You can find d
 - **Windows:**
   Open PowerShell (may require administrative privileges).
 
-## Step 2: Pull relevant Docker image
+## Step 2: Pull Relevant Docker Image
 
 Enter the following command to pull the latest PlantCV Docker image:
 
