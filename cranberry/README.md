@@ -48,7 +48,7 @@ With the correct environment setup, you can use your Jupyter notebook as usual. 
 
 When you are done, you can stop and remove all docker containers using these commands in your terminal. Otherwise, they will continue to run in the background (The images will remain pulled down from Dockerhub)
 
-NOTE: You may need to press CTRL+C (Windows/Linux) or CMD+C (MAC OS) to terminate the process in the terminal before being able to enter these commands.
+NOTE: You may need to press CTRL+C (Windows/Linux) or CMD+C (MAC OS) twice to terminate the process in the terminal before being able to enter these commands.
 ```bash
 docker stop $(docker ps -q)
 docker rm $(docker ps -a -q)
