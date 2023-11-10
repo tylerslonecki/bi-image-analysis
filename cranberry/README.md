@@ -1,4 +1,4 @@
-# Docker Setup
+# Docker Environment Setup
 
 ## Step 1: Install Docker
 
