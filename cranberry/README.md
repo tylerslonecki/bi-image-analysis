@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tylerslonecki/bi-image-analysis/tree/main/cranberry/HEAD?labpath=https%3A%2F%2Fgithub.com%2Ftylerslonecki%2Fbi-image-analysis%2Fblob%2Fmain%2Fcranberry%2FInternal_Scans.ipynb)
+
 # Docker Environment Setup
 
 ## Step 1: Install Docker
