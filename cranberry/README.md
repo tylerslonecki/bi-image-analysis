@@ -19,9 +19,10 @@ Enter the following command to pull the latest Docker image:
 
 ```bash
 docker pull tjs334/micromamba-base-jupyter:latest
-
+```
 OR
 
+```bash
 docker pull tjs334/micromamba-base-terminal:latest
 ```
 This command will pull down the latest working docker image compatible with this pipeline.
@@ -41,9 +42,10 @@ Once in the correct working folder, enter the following command in your terminal
 
 ```bash
 docker run -it --rm -p 8888:8888 -v .:/home/mambauser/ tjs334/micromamba-base:latest
-
+```
 OR
 
+```bash
 docker run -it -v .:/home/mambauser/ micromamba-base-terminal:latest
 ```
 
