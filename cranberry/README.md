@@ -41,6 +41,10 @@ Once in the correct working folder, enter the following command in your terminal
 
 ```bash
 docker run -it --rm -p 8888:8888 -v .:/home/mambauser/ tjs334/micromamba-base:latest
+
+OR
+
+docker run -it -v .:/home/mambauser/ micromamba-base-terminal:latest
 ```
 
 ## Step 5: Access Jupyter Notebook
